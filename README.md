@@ -1,8 +1,7 @@
 # se-day2-assignment
+PART ONE
 
-# PART ONE
-
-# QUESTION 1: Describe the steps required to install git on windows machine. What key options should you pay attention to during installation and why? 
+QUESTION 1: Describe the steps required to install git on windows machine. What key options should you pay attention to during installation and why? 
 
 1. Download the latest Git version from the official Git website ([https://git-scm.com/downloads](https://git-scm.com/downloads)) and download the best-suited version for your Windows. 
 
@@ -30,7 +29,7 @@ To confirm everything's working, open a command prompt or terminal and type `git
 
   
 
-# QUESTION 2:Explain the purpose of configuring your username and email on git. How does this configuration affect your git workflow? 
+QUESTION 2:Explain the purpose of configuring your username and email on git. How does this configuration affect your git workflow? 
 
 Purpose of Configuring Username and Email on Git: 
 
@@ -58,7 +57,7 @@ Best Practices:
 
   
 
-# QUESTION 3: What is ssh key And why is it recommended to connect git with github using ssh? Provide a step by step guide for generating and adding an ssh key to github 
+QUESTION 3: What is ssh key And why is it recommended to connect git with github using ssh? Provide a step by step guide for generating and adding an ssh key to github 
 
  SSH (Secure Shell) key is a pair of cryptographic keys (public and private) used for secure authentication. It’s like a digital lock and key for your computer. 
 
@@ -124,7 +123,7 @@ If the connection is successful, you’ll see a message like “Hi your_github_u
 
   
 
-# QUESTION 4: Provide the git command for the following tasks and explain what each command does; 
+QUESTION 4: Provide the git command for the following tasks and explain what each command does; 
 
 i) Initialize a new Git repository: 
 
@@ -158,7 +157,7 @@ It pushes the changes from your local repository to the `main` branch on the rem
 
   
 
-# QUESTION 5: After setting up git and github, how can you verify that your local git setup is properly connected to github? What’s the expected output? 
+QUESTION 5: After setting up git and github, how can you verify that your local git setup is properly connected to github? What’s the expected output? 
 
  Run this command in your terminal:  
 
@@ -184,7 +183,7 @@ The expected output means you have a remote repository named “origin” that�
 
   
 
-# QUESTION 1: Explain the concept of variables and data types in Python. Provide an example in Python where different data types (integer, string, and boolean) are used. 
+QUESTION 1: Explain the concept of variables and data types in Python. Provide an example in Python where different data types (integer, string, and boolean) are used. 
 
 Variables are used to store data that can be referenced and manipulated in a program. Python has several built-in data types, including integers, strings, booleans, floats, etc. Each data type determines the operations that can be performed on the variable and the storage required. 
 
@@ -214,7 +213,8 @@ Output:
 
 Getrude is 54 years old. Marital status: True 
 
-# QUESTION 2: What is control flow in Python? Write a Python script using if, elif, and else statements to check if a number is positive, negative, or zero. 
+
+QUESTION 2: What is control flow in Python? Write a Python script using if, elif, and else statements to check if a number is positive, negative, or zero. 
 
 Control flow is the order in which individual statements, instructions, or function calls are executed or evaluated. Python supports control flow tools such as if, elif, else, for, while etc., to direct the flow of execution based on conditions or loops. 
 
@@ -238,7 +238,8 @@ Output:
 
 Enter a number: 
 
-# QUESTION 3: Differentiate between for loops and while loops in Python. Provide examples of each where a list of numbers is iterated over, and only even numbers are printed. 
+
+QUESTION 3: Differentiate between for loops and while loops in Python. Provide examples of each where a list of numbers is iterated over, and only even numbers are printed. 
 
 Loops are used to iterate over a sequence (such as a list, tuple, string, or range). 
 
@@ -278,7 +279,8 @@ while i < len(numbers):
 
 12,14,16 
 
-# QUESTION 4: Define what a function is in Python and explain its importance. Write a Python function that takes two arguments (a and b) and returns their sum. 
+
+QUESTION 4: Define what a function is in Python and explain its importance. Write a Python function that takes two arguments (a and b) and returns their sum. 
 
 A function n is a block of reusable code that performs a specific task.  
 
@@ -304,7 +306,8 @@ print(f"The sum is: {result}")
 
 30 
 
-# QUESTION 5: Compare lists and dictionaries in Python. How would you use a list and a dictionary to store the names and ages of three people? Provide a Python code example. 
+
+QUESTION 5: Compare lists and dictionaries in Python. How would you use a list and a dictionary to store the names and ages of three people? Provide a Python code example. 
 
  List is an ordered collection of items that can be of any data type. Lists are indexed by integers and can be modified (mutable). Lists are best for sequences where order is important, like a list of names as they use case. 
 
