@@ -32,7 +32,7 @@ To confirm everything's working, open a command prompt or terminal and type `git
 
 #QUESTION 2:Explain the purpose of configuring your username and email on git. How does this configuration affect your git workflow? 
 
-# Purpose of Configuring Username and Email on Git: 
+Purpose of Configuring Username and Email on Git: 
 
 When you initialize Git on your system, you’re typically asked to provide your username and email address. These details are essential for identifying you as the author of your commits, as it is easy to keep track of the changes and resolving conflicts.  
 
@@ -40,7 +40,7 @@ By configuring your username and email, you’re essentially creating a digital 
 
   
 
-# How it Affects Your Git Workflow: 
+How it Affects Your Git Workflow: 
 
 Collaboration: When working on a team project, your unique identity helps differentiate your contributions from others. This prevents conflicts and ensures proper credit for your work. 
 
@@ -50,7 +50,7 @@ Open Source Recognition: Your public username and email allow others to acknowle
 
   
 
-# Best Practices: 
+Best Practices: 
 
  Use a consistent username and email for all your Git activities and workflow. 
 
@@ -64,7 +64,7 @@ Open Source Recognition: Your public username and email allow others to acknowle
 
   
 
-# Why Use SSH for GitHub? 
+Why Use SSH for GitHub? 
 
 SSH keys offer a more secure way to connect to GitHub compared to passwords. They’re harder to crack and protect against unauthorized access. 
 
@@ -74,7 +74,7 @@ SSH keys can be used with Two-Factor Authentication (2FA) for even stronger secu
 
   
 
-# Steps to Generate and Add an SSH Key to GitHub: 
+Steps to Generate and Add an SSH Key to GitHub: 
 
 1. Check for Existing SSH Keys: 
 
@@ -114,7 +114,7 @@ Follow the prompts to create a passphrase for your private key.
 
   
 
-# Testing the SSH Connection: 
+Testing the SSH Connection: 
 
 Run the following command, replacing `your_github_username` with your GitHub username: 
 
